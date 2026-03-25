@@ -51,13 +51,12 @@ The system is built around the following main blocks:
 - Compatibility with the original vehicle key system
 
 ## Repository Structure
-- `Book/` - Final project report and documentation
-- `Code/` - ESP32-S3 firmware source code
-- `KiCad/` - Schematic and PCB design files
-- `Multisim/` - Simulation files
-- `BOM/` - Bill of Materials
-- `Photos/` - Project images, prototype, PCB, and assembly photos
-- `Poster/` - Project poster and presentation materials
+- `Code/` - source code for the ESP32-S3 based PKE controller
+- `KICAD/` - schematic and PCB design files created in KiCad
+- `Multisim/` - simulation files used during the design and verification stages
+- `ESP32S3.jpg` - image of the implemented ESP32-S3 based hardware
+- `Final Project.pdf` - final project documentation and report
+- `README.md` - general description of the project and repository contents
 
 ## Tools and Technologies
 - **Microcontroller:** ESP32-S3
