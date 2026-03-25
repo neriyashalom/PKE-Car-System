@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_ESP_Footprints")(type "KiCad")(uri "${KIPRJMOD}/ESP32_S3_DevkitC/My_ESP_Footprints.pretty")(options "")(descr ""))
+  (lib (name "CMA51H_RELAY")(type "KiCad")(uri "${KIPRJMOD}/CMA51H_RELAY")(options "")(descr ""))
+  (lib (name "ESP32-S3-DevKitC-1-N32R16V")(type "KiCad")(uri "${KIPRJMOD}/ESP32-S3-DevKitC-1-N32R16V")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RXB6_LIB")(type "KiCad")(uri "${KIPRJMOD}/RXB6/RXB6_LIB.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_S3_DevkitC")(type "KiCad")(uri "${KIPRJMOD}/ESP32_S3_DevkitC/ESP32_S3_DevkitC.kicad_sym")(options "")(descr ""))
+  (lib (name "CMA51H-S-DC12V-C")(type "KiCad")(uri "${KIPRJMOD}/CMA51H_RELAY/CMA51H-S-DC12V-C.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-DevKitC-1-N32R16V")(type "KiCad")(uri "${KIPRJMOD}/ESP32-S3-DevKitC-1-N32R16V/ESP32-S3-DevKitC-1-N32R16V.kicad_sym")(options "")(descr ""))
+)
